@@ -1,2 +1,3 @@
 bug.hr##div.oglas.ad
 bug.hr##div#div-gpt-ad-bughr_forum_desktop_inside
+jutarnji.hr##div.ad--align
